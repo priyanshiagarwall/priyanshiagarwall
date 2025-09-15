@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/priyanshi-agarwal-93b330298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">LinkedIn</a> •
-  <a href="https://github.com/priyanshiagarwall" target="_blank" rel="noreferrer">GitHub</a> •
+  <a href="https://github.com/priyanshiagarwall" target="_blank" rel="noreferrer">GitHub</a> 
   
 </p>
 
